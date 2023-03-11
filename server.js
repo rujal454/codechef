@@ -21,7 +21,7 @@ const sch={
 
     pass:{
     type:String,
-    minlength: 5,
+    minlength:6,
     }
     
 }
