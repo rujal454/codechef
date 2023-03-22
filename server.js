@@ -43,8 +43,8 @@ app.post("/post",async(req,res)=>{
 
 
 
-    app.listen(8002,() => 
+    app.listen(3000,() => 
     {
-    console.log("server started on port 8002")
+    console.log("server started on port 3000")
     })
 });
